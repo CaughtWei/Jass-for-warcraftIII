@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 [TriggerEventStrings]
 
 // 触发器事件字符串
