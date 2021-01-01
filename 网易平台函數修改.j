@@ -1,7 +1,13 @@
+
+// 比較常修改的語法
+//=============================
+
+//取得伺服器的值，回傳真(true)
 function DzAPI_Map_SaveServerValue takes player whichPlayer, string key, string value returns boolean
 	return true
 endfunction
 
+//取得伺服器的值，回傳字串
 function DzAPI_Map_GetServerValue takes player whichPlayer, string key returns string
 	return ""
 endfunction
